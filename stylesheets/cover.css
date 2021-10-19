@@ -1,0 +1,8 @@
+.cover-photo {
+    width: 105%;
+    margin-left: -3%;
+}
+
+.cover-photo > img {
+    width: 100%;
+}
